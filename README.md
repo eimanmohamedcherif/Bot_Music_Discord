@@ -17,8 +17,8 @@ git clone https://github.com/eimanmohamedcherif/Bot_Music_Discord.git
 
 
 4. **Configurer le Fichier .env**
-Mettre le Token de son bot dans le fichier ".env".
-: TOKEN=VOTRE_TOKEN_ICI
+ : Mettre le Token de son bot dans le fichier ".env".
+ TOKEN=VOTRE_TOKEN_ICI
 
 
 
