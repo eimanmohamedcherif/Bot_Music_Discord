@@ -12,10 +12,11 @@ git clone https://github.com/eimanmohamedcherif/Bot_Music_Discord.git
 
 
 2. **Installer les Dépendances**
-npm install
+   
+: npm install
 
 
-3. **Configurer le Fichier .env**
+4. **Configurer le Fichier .env**
 Mettre le Token de son bot dans le fichier ".env".
 TOKEN=VOTRE_TOKEN_ICI
 
