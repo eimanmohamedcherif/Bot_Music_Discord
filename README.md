@@ -1,5 +1,5 @@
 ﻿# Bot_Music_Discord
-# Bot Discord de Musique
+
 
 ## Présentation
 Ce bot Discord est conçu pour jouer de la musique dans vos serveurs Discord. Il utilise Discord.js pour l'interaction avec l'API Discord et Discord Player pour la gestion des pistes audio.
