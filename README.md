@@ -9,14 +9,11 @@ Ce bot Discord est conçu pour jouer de la musique dans vos serveurs Discord. Il
 1. **Cloner le Repository**
 git clone https://github.com/eimanmohamedcherif/Bot_Music_Discord.git
 
-markdown
-Copy code
+
 
 2. **Installer les Dépendances**
 npm install
 
-bash
-Copy code
 
 3. **Configurer le Fichier .env**
 Mettre le Token de son bot dans le fichier ".env".
