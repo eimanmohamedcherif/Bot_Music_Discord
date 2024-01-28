@@ -18,7 +18,7 @@ git clone https://github.com/eimanmohamedcherif/Bot_Music_Discord.git
 
 4. **Configurer le Fichier .env**
 Mettre le Token de son bot dans le fichier ".env".
-TOKEN=VOTRE_TOKEN_ICI
+: TOKEN=VOTRE_TOKEN_ICI
 
 
 
@@ -30,11 +30,12 @@ TOKEN=VOTRE_TOKEN_ICI
 ## Utilisation
 
 1. **Démarrer le Bot**
-npm start
+   
+: npm start
 
 
 
-2. **Commandes**
+3. **Commandes**
 - `/play [nom de la chanson ou lien YouTube]`: Joue une chanson.
 - `/skip`: Passe à la chanson suivante.
 - `/pause`: Met en pause la lecture ou reprend la lecture.
